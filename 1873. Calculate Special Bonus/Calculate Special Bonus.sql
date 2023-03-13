@@ -6,4 +6,6 @@ SELECT  employee_id, CASE
                0
          END
             bonus
-  FROM   employees;
+  FROM   employees
+  order by 1;
+  
