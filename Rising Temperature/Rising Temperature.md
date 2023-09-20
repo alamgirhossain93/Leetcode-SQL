@@ -1,0 +1,1 @@
+https://leetcode.com/problems/rising-temperature/submissions/?envType=study-plan-v2&envId=top-sql-50
