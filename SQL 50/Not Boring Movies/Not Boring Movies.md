@@ -1,0 +1,1 @@
+https://leetcode.com/problems/not-boring-movies/submissions/?envType=study-plan-v2&envId=top-sql-50
