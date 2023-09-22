@@ -1,0 +1,1 @@
+https://leetcode.com/problems/percentage-of-users-attended-a-contest/submissions/?envType=study-plan-v2&envId=top-sql-50
