@@ -1,0 +1,1 @@
+https://leetcode.com/problems/product-price-at-a-given-date/submissions/?envType=study-plan-v2&envId=top-sql-50
