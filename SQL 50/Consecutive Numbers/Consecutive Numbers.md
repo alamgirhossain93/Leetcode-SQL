@@ -1,0 +1,1 @@
+https://leetcode.com/problems/consecutive-numbers/submissions/?envType=study-plan-v2&envId=top-sql-50
