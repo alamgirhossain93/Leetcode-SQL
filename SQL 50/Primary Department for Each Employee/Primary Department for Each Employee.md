@@ -1,0 +1,1 @@
+https://leetcode.com/problems/primary-department-for-each-employee/submissions/?envType=study-plan-v2&envId=top-sql-50
