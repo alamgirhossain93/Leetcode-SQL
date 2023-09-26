@@ -1,0 +1,1 @@
+https://leetcode.com/problems/employees-whose-manager-left-the-company/submissions/?envType=study-plan-v2&envId=top-sql-50
