@@ -1,0 +1,1 @@
+https://leetcode.com/problems/investments-in-2016/submissions/?envType=study-plan-v2&envId=top-sql-50
