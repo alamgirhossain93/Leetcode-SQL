@@ -1,0 +1,1 @@
+https://leetcode.com/problems/patients-with-a-condition/submissions/?envType=study-plan-v2&envId=top-sql-50
